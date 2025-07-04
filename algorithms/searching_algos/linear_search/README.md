@@ -27,3 +27,9 @@ A linear search can be done on any list, either sorted or unsorted. It is a stra
 
 **Space Complexity**: `O(1)`
 - No extra memory needs to be allocated to complete this search
+
+
+
+## Common Related Data Structures
+* List/Array
+* Linked List

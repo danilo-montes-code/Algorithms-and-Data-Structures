@@ -53,3 +53,9 @@ This solution can be implemented iteratively, with variables for the left and ri
 **Space Complexity**: 
 * Iterative: `O(1)` - No extra space is allocated
 * Recursive: `O(log n)` - The recursive call stack can be at most `log n` calls tall
+
+
+
+## Common Related Data Structures
+* List/Array
+* Binary Search Tree (BST)
