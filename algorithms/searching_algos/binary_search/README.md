@@ -28,6 +28,7 @@ This solution can be implemented iteratively, with variables for the left and ri
 6. Steps 4 and 5 will repeat, with the adjustment of the left or right bounds influencing the recalculation of the middle index at the beginning of the loop, reducing the search area. Each iteration will see the search area reduced to half of its previous step.
 7. If the loop completes, then the target was not found, so you return -1
 
+
 ### Recursive
 
 1. Your function signature should accept:
