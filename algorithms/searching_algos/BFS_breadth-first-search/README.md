@@ -26,7 +26,7 @@ BFS is useful for:
 4. **Pop the first element** of the queue to get the node/vertex to handle
     * If using a graph, **mark the element as visited**
 5. If the element **contains the target value**, return a reference to the node, or True, depending on function goals
-6. **Add the children nodes**/unvisited adjacent verticies to the end of the queue
+6. **Add the children nodes**/unvisited adjacent vertices to the end of the queue
 7. If the **entire tree/graph was searched without finding the target**, return None or False depending on function goals
 
 
