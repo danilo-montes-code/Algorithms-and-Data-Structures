@@ -1,6 +1,7 @@
 # Linked List
 A Linked List is a chain of nodes, each consisting of the data to store and a reference to the next node in the chain.
 The first node is called the head, and Linked Lists are usually referenced by passing around the reference where needed.
+You can also implement two classes, one for the nodes of the Linked List, to handle data storage and `.next` references, and one for the Linked List itself, to handle operations on the list.
 
 
 ## Traversing the Data
