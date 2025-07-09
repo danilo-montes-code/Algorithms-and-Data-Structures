@@ -8,7 +8,10 @@ A collection of algorithms and data structures you might find in interviews, pro
 ## [Searching Algorithms](/algorithms/searching_algos/)
 * [Linear/Sequential Search](/algorithms/searching_algos/linear_search)
 * [Binary Search](/algorithms/searching_algos/binary_search)
+* [Depth-First Search](/algorithms/searching_algos/DFS_depth-first-search/)
+* [Breadth-First Search](/algorithms/searching_algos/BFS_breadth-first-search/)
 
 
 
 # Data Structures
+* [Linked List](/data_structures/linked_list/)
