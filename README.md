@@ -15,3 +15,6 @@ A collection of algorithms and data structures you might find in interviews, pro
 
 # Data Structures
 * [Linked List](/data_structures/linked_list/)
+* [Tree](/data_structures/trees/)
+* [Binary Tree](/data_structures/trees/binary_tree/)
+* [Binary Search Tree](/data_structures/trees/binary_tree/binary_search_tree/)
