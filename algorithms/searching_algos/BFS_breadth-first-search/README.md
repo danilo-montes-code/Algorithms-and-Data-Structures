@@ -1,6 +1,6 @@
 # Breadth First Search (BFS)
 Performed on graphs and trees, BFS starts at a root node and travels through the structure one level at a time. 
-The adjacent nodes are added to the end of a First-In-First-Out queue, and at each iteration, the front of the queue is popped to get the next node to handle.
+The adjacent nodes are added to the end of a queue, and at each iteration, the front of the queue is popped to get the next node to handle.
 In this way, each level from the root is added to the queue in batches, resulting in a row-by-row search.
 
 BFS is useful for:
