@@ -27,3 +27,4 @@ This relies on recursion and the recursive call stack by extension to handle whe
 ## Variations
 * Binary Tree - a Tree where nodes can have at most 2 children
 * N-ary Tree - a Tree where nodes can have at most n children
+* Trie - a tree where every node represents a character, with paths from the root to the leaves representing a string, used for operations like predictive text
